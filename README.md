@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Corgi.pro<br>🌱 I’m currently learning: react native<br>📫 How to reach me: ... kamilsuchock123@gmail.com
+🔭 I’m currently working in korg.software <br>🌱 I’m currently learning: wordpress plugins development<br>📫 How to reach me: ... kamilsuchock123@gmail.com
 
 
 ## 🌐 Socials:
